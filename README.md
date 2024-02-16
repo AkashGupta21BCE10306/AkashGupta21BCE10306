@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **akashgupta17026@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12U49T51jn9qn2aiRLv9XwwH5eGsjPRAC/view?usp=sharing](https://bit.ly/3T2aVLi)<br>
+- 📄 Know about my experiences [https://drive.google.com/file/d/12U49T51jn9qn2aiRLv9XwwH5eGsjPRAC/view?usp=sharing](https://drive.google.com/file/d/12U49T51jn9qn2aiRLv9XwwH5eGsjPRAC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
