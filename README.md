@@ -1,4 +1,4 @@
-![logo]("https://github.com/AkashGupta21BCE10306/AkashGupta21BCE10306/blob/main/logo.png")
+![logo](https://github.com/AkashGupta21BCE10306/AkashGupta21BCE10306/blob/main/logo2.png)
 <h1 align="center">Hi 👋, I'm Akash Gupta</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coading" width= "300"; src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **akashgupta17026@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12U49T51jn9qn2aiRLv9XwwH5eGsjPRAC/view?usp=sharing](https://drive.google.com/file/d/12U49T51jn9qn2aiRLv9XwwH5eGsjPRAC/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12U49T51jn9qn2aiRLv9XwwH5eGsjPRAC/view?usp=sharing](https://drive.google.com/file/d/12U49T51jn9qn2aiRLv9XwwH5eGsjPRAC/view?usp=sharing)<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
