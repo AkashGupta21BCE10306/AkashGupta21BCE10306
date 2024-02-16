@@ -1,7 +1,7 @@
 ![logo](https://github.com/AkashGupta21BCE10306/AkashGupta21BCE10306/blob/main/logo2.png)
 <h1 align="center">Hi 👋, I'm Akash Gupta</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="coading" width= "0"; src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
+<img align="right" alt="coading" width= "530"; src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashgupta21bce10306&label=Profile%20views&color=0e75b6&style=flat" alt="akashgupta21bce10306" /> </p>
 
 - 🔭 I’m currently working on **Crime Portal**
