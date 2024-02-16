@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Gupta</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="coading" width= "400"; src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coading" width= "300"; src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashgupta21bce10306&label=Profile%20views&color=0e75b6&style=flat" alt="akashgupta21bce10306" /> </p>
 
 - 🔭 I’m currently working on **Crime Portal**
